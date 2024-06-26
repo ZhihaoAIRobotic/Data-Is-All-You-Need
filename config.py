@@ -2,7 +2,6 @@ import yaml
 import openai
 import os
 
-from logs import LOGGER
 
 
 class NotConfiguredException(Exception):
@@ -31,7 +30,6 @@ class Config:
     def __init__(self, yaml_file=default_yaml_file):
         self._configs = {}
         self._init_with_config_files_and_env(self._configs, yaml_file)
-        LOGGER.info("Config loading done.")
         self.openai_api_key = self._get("OPENAI_API_KEY")
         self.openai_api_base = self._get("OPENAI_API_BASE")
         openai.api_base = self.openai_api_base
