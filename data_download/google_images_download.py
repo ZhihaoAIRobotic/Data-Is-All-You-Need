@@ -4,8 +4,11 @@ import os
 from config import CONFIG
 
 
-def google_image_search(query, api_key, cx, num_images=5):
+def google_image_search(query, api_key, cx, num_images=5, download_path="downloaded_images"):
+    if download_path[-1] != "/":
+        download_path += "/"
     # Create a custom search service
+    image_name_prefix = query.replace(" ", "_")
     service = build("customsearch", "v1", developerKey=api_key)
     if num_images < 10:
         # Execute the search
@@ -18,11 +21,10 @@ def google_image_search(query, api_key, cx, num_images=5):
                 response = requests.get(image_url)
                 if response.status_code == 200:
                     # Create a directory for downloaded images if it doesn't exist
-                    if not os.path.exists("downloaded_images"):
-                        os.makedirs("downloaded_images")
-                    
+                    if not os.path.exists(download_path):
+                        os.makedirs(download_path)           
                     # Save the image
-                    file_name = f"downloaded_images/image_{i+1}.jpg"
+                    file_name = download_path + image_name_prefix + f"image_{i+1}.jpg"
                     with open(file_name, "wb") as file:
                         file.write(response.content)
                     print(f"Downloaded: {file_name}")
@@ -42,11 +44,11 @@ def google_image_search(query, api_key, cx, num_images=5):
                     response = requests.get(image_url)
                     if response.status_code == 200:
                         # Create a directory for downloaded images if it doesn't exist
-                        if not os.path.exists("downloaded_images"):
-                            os.makedirs("downloaded_images")
+                        if not os.path.exists(download_path):
+                            os.makedirs(download_path)
                         
                         # Save the image
-                        file_name = f"downloaded_images/image_{i+j}.jpg"
+                        file_name = download_path + image_name_prefix + f"image_{i+j}.jpg"
                         with open(file_name, "wb") as file:
                             file.write(response.content)
                         print(f"Downloaded: {file_name}")
@@ -62,4 +64,4 @@ if __name__ == "__main__":
 
     # Perform the search
     search_query = "spilled coffee"
-    google_image_search(search_query, API_KEY, CX, num_images=12)
+    google_image_search(search_query, API_KEY, CX, num_images=12, download_path="data/downloaded_images")
