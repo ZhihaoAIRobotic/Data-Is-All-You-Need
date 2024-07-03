@@ -18,15 +18,19 @@ Original image:
 ![alt text](data/test_imgs/cat_2.jpg)
 
 Cropped image 300*400:
+
 ![alt text](data/test_imgs/cropped.jpg)
 
-Cropped square image: 512*512
+Cropped square image 512*512:
+
 ![alt text](data/test_imgs/cropped_square.jpg)
 
 Flipped image:
+
 ![alt text](data/test_imgs/flipped.jpg)
 
 Rotated image:
+
 ![alt text](data/test_imgs/rotated.jpg)
 
 # Usage
