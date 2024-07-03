@@ -1,4 +1,4 @@
-from dataset_preparation.diffusion.img2img import canny_img2img, LineArt
+from preparation.diffusion.img2img import canny_img2img, LineArt
 import cv2
 import os
 import json

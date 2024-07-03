@@ -1,0 +1,392 @@
+[
+    {
+        "source": "data/canny_images/canny_0.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_3.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_1.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_12.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_2.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_3.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_3.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_18.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_4.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_9.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_5.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_1.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_6.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_14.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_7.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_17.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_8.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_11.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_9.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_8.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_10.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_20.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_11.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_7.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_12.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_16.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_13.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_19.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_14.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_1.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_15.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_15.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_16.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_8.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_17.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_1.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_18.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_1.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_19.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_15.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_20.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_20.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_21.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_2.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_22.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_7.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_23.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_6.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_24.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_5.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_25.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_2.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_26.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_4.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_27.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_19.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_28.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_16.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_29.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_3.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_30.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_4.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_31.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_13.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_32.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_11.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_33.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_14.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_34.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_19.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_35.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_2.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_36.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_12.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_37.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_11.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_38.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_13.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_39.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_9.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_40.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_14.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_41.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_17.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_42.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_12.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_43.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_7.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_44.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_18.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_45.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_10.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_46.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_13.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_47.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_19.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_48.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_2.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_49.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_10.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_50.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_16.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_51.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_13.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_52.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_7.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_53.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_4.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_54.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_11.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_55.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_5.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_56.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_10.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_57.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_9.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_58.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_6.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_59.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_15.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_60.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_20.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_61.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_16.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_62.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_18.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_63.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_12.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_64.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_10.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_65.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_15.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_67.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_8.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_68.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_18.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_69.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_4.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_70.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_6.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_71.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_5.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_72.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_20.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_73.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_17.jpg",
+        "prompt": "spilled juice on the table"
+    },
+    {
+        "source": "data/canny_images/canny_74.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_8.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_75.jpg",
+        "target": "data/downloaded_images/spilled_coffee_on_the_tableimage_5.jpg",
+        "prompt": "spilled coffee on the table"
+    },
+    {
+        "source": "data/canny_images/canny_76.jpg",
+        "target": "data/downloaded_images/spilled_water_on_the_tableimage_14.jpg",
+        "prompt": "spilled water on the table"
+    },
+    {
+        "source": "data/canny_images/canny_77.jpg",
+        "target": "data/downloaded_images/spilled_milk_on_the_tableimage_3.jpg",
+        "prompt": "spilled milk on the table"
+    },
+    {
+        "source": "data/canny_images/canny_78.jpg",
+        "target": "data/downloaded_images/spilled_juice_on_the_tableimage_6.jpg",
+        "prompt": "spilled juice on the table"
+    }
+]

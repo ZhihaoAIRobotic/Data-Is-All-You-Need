@@ -1,4 +1,4 @@
-from dataset_preparation.diffusion import img2img
+from preparation.diffusion import img2img
 import cv2
 
 def test_canny_img2img():
