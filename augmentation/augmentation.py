@@ -81,23 +81,3 @@ def random_rotate(img_path: str, angle: int) -> np.ndarray:
     rotated = cv2.warpAffine(img, M, (w, h))
     return rotated
 
-
-if __name__ == "__main__":
-    img_path = os.path.join(os.getcwd(), "data", "test_imgs", "cat_2.jpg")
-    cropped = random_crop(img_path, 300, 400)
-    cv2.imshow("cropped", cropped)
-    cv2.waitKey(1000)
-    cv2.destroyAllWindows()
-    flipped = random_flip(img_path, 1)
-    cv2.imshow("flipped", flipped)
-    cv2.waitKey(1000)
-    cv2.destroyAllWindows()
-    rotated = random_rotate(img_path, 45)
-    cv2.imshow("rotated", rotated)
-    cv2.waitKey(1000)
-    cv2.destroyAllWindows()
-    cropped = random_crop_square(img_path, 512)
-    cv2.imshow("cropped", cropped)
-    cv2.waitKey(1000)
-    cv2.destroyAllWindows()
-    
