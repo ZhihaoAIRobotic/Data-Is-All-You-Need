@@ -4,14 +4,17 @@ As the field of Transformers and Diffusions advances, the significance of data h
 
 ## Features
 - **:card_file_box: Data Collection**
+    
     :fire: Tools for downloading specific images from google.
 - **:art: Data Preparation**
+    
     :fire: Tools for preparing images for img2img conditional diffusion model, such as canny image generation, LineArt generation.
 
     :fire: Tools for preprocessing images.
 - **:sparkles:Data Augumentation**
-    :fire: Tools for getting more data through image manipulation techniques such as rotation, random cropping, and flipping.
     
+    :fire: Tools for getting more data through image manipulation techniques such as rotation, random cropping, and flipping.
+
     :fire: Tools for getting more data through generative models, such as change lighting, change background, change specific object or zone. (Coming soon)
 
 # Examples
